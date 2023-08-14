@@ -19,7 +19,6 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
 #import talib as ta
-import json
 
 
 run_program = datetime.utcnow()
