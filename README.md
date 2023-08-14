@@ -2,5 +2,5 @@
 Prototype of artificial intelligence trading
 
 links:
-<\br>
+</br>
 https://github.com/darwinex/dwxconnect/tree/main
